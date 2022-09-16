@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\codin\Quiz1045\bin\Debug\net6.0\4484.exe
+C:\Users\ACER\Desktop\codin\Quiz1045\bin\Debug\net6.0\4484.deps.json
+C:\Users\ACER\Desktop\codin\Quiz1045\bin\Debug\net6.0\4484.runtimeconfig.json
+C:\Users\ACER\Desktop\codin\Quiz1045\bin\Debug\net6.0\4484.dll
+C:\Users\ACER\Desktop\codin\Quiz1045\bin\Debug\net6.0\4484.pdb
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\4484.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\4484.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\4484.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\4484.AssemblyInfo.cs
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\4484.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\4484.dll
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\refint\4484.dll
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\4484.pdb
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\4484.genruntimeconfig.cache
+C:\Users\ACER\Desktop\codin\Quiz1045\obj\Debug\net6.0\ref\4484.dll
